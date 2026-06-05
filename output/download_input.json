@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "swhid": "swh:1:rev:222f0852dbf774058af95f172bf3f42c87e8ec8d"
+  },
+  {
+    "url": "https://github.com/SerenityOS/serenity",
+    "swhid": "swh:1:rev:80f586503daf0ecd0eac858e8b8e7e53b43065ae"
+  },
+  {
+    "url": "https://github.com/nodejs/node",
+    "swhid": "swh:1:rev:0c78a48d75008b87d874385a966a168a2b680b4d"
+  },
+  {
+    "url": "https://github.com/go-gitea/gitea",
+    "swhid": "swh:1:rev:8cea1aeea5e72a7086c965c2197234f3928b1779"
+  },
+  {
+    "url": "https://github.com/kubernetes/kubernetes",
+    "swhid": "swh:1:rev:347c54da6e90b238b9ba0c31d0f802d3109ed9e8"
+  },
+  {
+    "url": "https://github.com/k3s-io/k3s",
+    "swhid": "swh:1:rev:441a42e8ce5a850e32546593ecad750a7ccc3ab1"
+  },
+  {
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "swhid": "swh:1:rev:2685654a37141cca63eda3a92da0e2706e23ccfd"
+  },
+  {
+    "url": "https://github.com/etcd-io/etcd",
+    "swhid": "swh:1:rev:21a976e9e254f3938f2ced3eb96310449ccf8bef"
+  },
+  {
+    "url": "https://github.com/JuliaLang/julia",
+    "swhid": "swh:1:rev:43ead4774248b1cf9cb84a349e9e90b3595c9ecd"
+  },
+  {
+    "url": "https://github.com/keycloak/keycloak",
+    "swhid": "swh:1:rev:603ecf20ebdc19067baa2200c6296912a56f3957"
+  }
+]
