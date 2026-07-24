@@ -1,0 +1,3 @@
+[submodule "swherlock"]
+	path = swherlock
+	url = git@gitlab.inria.fr:swh-research-foundry/swherlock.git

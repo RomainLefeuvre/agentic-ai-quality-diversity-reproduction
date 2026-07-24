@@ -1,13 +1,19 @@
 [project]
 name = "gen-ai-clone-study"
 version = "0.1.0"
-requires-python = ">=3.11"
+requires-python = ">=3.13"
 dependencies = [
-    "pandas",
-    "pyarrow",
     "jupyterlab",
     "python-dotenv",
     "swh-dataset-downloader",
+    "jupyter>=1.0.0",
+    "pandas>=2.0.0",
+    "pyarrow>=14.0.0",
+    "matplotlib>=3.8.0",
+    "requests>=2.31.0",
+    "tqdm>=4.66.0",
+    "duckdb>=1.5.5",
+    "sampling-mining-workflows-dsl>=0.0.4",
 ]
 
 [tool.uv.sources]

@@ -1,0 +1,76 @@
+digraph {
+	rankdir=LR
+	InputSet [label="INITIAL
+SAMPLING FRAME
+Size : 13 123" shape=box]
+	FilterOperator_0_0_0 [label="Filter Operator
+ creation_ts < 1609459200
+and recent_commits >= 100
+and total_commits >= 1000
+and unique_authors >= 5
+and core_authors >= 2
+
+SET#1
+ Size : 6 453" shape=box]
+	InputSet -> FilterOperator_0_0_0
+	FilterOperator_0_0_1 [label="Filter Operator
+has_ci
+and has_license
+and has_readme
+and not is_fork
+
+SET#2
+ Size : 5 306" shape=box]
+	FilterOperator_0_0_0 -> FilterOperator_0_0_1
+	FilterOperator_0_0_2 [label="Filter Operator
+file_count >= 10
+and (top_language == 'Java'
+or top_language == 'Python')
+
+SET#3
+ Size : 1 432" shape=box]
+	FilterOperator_0_0_1 -> FilterOperator_0_0_2
+	FilterOperator_0_0_3 [label="Filter Operator
+yearly_head_revisions.unknown(unknown)
+
+SET#4
+ Size : 912" shape=box]
+	FilterOperator_0_0_2 -> FilterOperator_0_0_3
+	GroupingOperator_0_0_4 [label="Grouping
+Operator" shape=box]
+	FilterOperator_0_0_3 -> GroupingOperator_0_0_4
+	FilterOperator_1_0_0 [label="Filter Operator
+top_language == 'Java'
+
+SET#5
+ Size : 360" shape=box]
+	GroupingOperator_0_0_4 -> FilterOperator_1_0_0
+	RandomSelectionOperator_1_0_1 [label="RandomSelection
+Operator
+
+SET#6
+ Size : 25" shape=box]
+	FilterOperator_1_0_0 -> RandomSelectionOperator_1_0_1
+	FilterOperator_1_1_0 [label="Filter Operator
+top_language == 'Python'
+
+SET#7
+ Size : 552" shape=box]
+	GroupingOperator_0_0_4 -> FilterOperator_1_1_0
+	RandomSelectionOperator_1_1_1 [label="RandomSelection
+Operator
+
+SET#8
+ Size : 25" shape=box]
+	FilterOperator_1_1_0 -> RandomSelectionOperator_1_1_1
+	UnionOperator_0_0_5 [label="Union
+Operator
+
+SET#9
+ Size : 50" shape=box]
+	RandomSelectionOperator_1_0_1 -> UnionOperator_0_0_5
+	RandomSelectionOperator_1_1_1 -> UnionOperator_0_0_5
+	OutputSet [label="SAMPLE
+Size : 50" shape=box]
+	UnionOperator_0_0_5 -> OutputSet
+}

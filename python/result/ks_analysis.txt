@@ -1,0 +1,515 @@
+Kolmogorov-Smirnov Analysis Results
+==================================================
+Metadata: file_count
+==================================================
+
+Comparison #1
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #0Initial Input (size: 13123)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #2
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #1FilterOperator (size: 6453)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.15467816993452932
+P-value: 7.526319467859461e-91
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #3
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #2FilterOperator (size: 5306)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.16771301161997104
+P-value: 2.3446297772903236e-93
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #4
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #3FilterOperator (size: 1432)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.15177024048782956
+P-value: 1.9862974188418494e-26
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #5
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #4FilterOperator (size: 912)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.15923128135816184
+P-value: 2.327255024348043e-19
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #6
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #5FilterOperator (size: 360)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.33192380637896146
+P-value: 7.221811424506953e-35
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #7
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #6RandomSelectionOperator (size: 25)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.34103482435418725
+P-value: 0.004245394947234082
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #8
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.08738681505090629
+P-value: 0.0005697767269566861
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #9
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.21032385887373317
+P-value: 0.18957699136502004
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #10
+Set 1: Set #0Initial set (size: 13123)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.24677284157585916
+P-value: 0.003620984274529615
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #11
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #1FilterOperator (size: 6453)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #12
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #2FilterOperator (size: 5306)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.016057568165626146
+P-value: 0.4347054354517942
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #13
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #3FilterOperator (size: 1432)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0296697348338264
+P-value: 0.24783177133672127
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #14
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #4FilterOperator (size: 912)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.02651714420873197
+P-value: 0.6169582056534428
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #15
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #5FilterOperator (size: 360)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.2132147838214784
+P-value: 4.450149410714053e-14
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #16
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #6RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.21099643576631033
+P-value: 0.18834939325637878
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #17
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.1668974322694533
+P-value: 7.582278367303525e-13
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #18
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.3202975360297535
+P-value: 0.008993618641909572
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #19
+Set 1: Set #1FilterOperator (size: 6453)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.09335192933519293
+P-value: 0.7448342538087289
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #20
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #2FilterOperator (size: 5306)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #21
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #3FilterOperator (size: 1432)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.036418400587929445
+P-value: 0.09758064244197959
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #22
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #4FilterOperator (size: 912)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.03371596868159843
+P-value: 0.3308100591369915
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #23
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #5FilterOperator (size: 360)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.2093594253884491
+P-value: 1.9482911407790837e-13
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #24
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #6RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.21053901243874862
+P-value: 0.1905699648081901
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #25
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.17335174289975253
+P-value: 1.3198536281826206e-13
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #26
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.32449302676215597
+P-value: 0.00783060699180926
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #27
+Set 1: Set #2FilterOperator (size: 5306)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.08449302676215598
+P-value: 0.8416524182839551
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #28
+Set 1: Set #3FilterOperator (size: 1432)
+Set 2: Set #3FilterOperator (size: 1432)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #29
+Set 1: Set #3FilterOperator (size: 1432)
+Set 2: Set #4FilterOperator (size: 912)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.012288052533568627
+P-value: 0.999991732300154
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #30
+Set 1: Set #3FilterOperator (size: 1432)
+Set 2: Set #5FilterOperator (size: 360)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.2333954065797641
+P-value: 3.0104250753456605e-14
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #31
+Set 1: Set #3FilterOperator (size: 1432)
+Set 2: Set #6RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.22530726256983247
+P-value: 0.1407015551119021
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #32
+Set 1: Set #3FilterOperator (size: 1432)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.14337907861711596
+P-value: 1.3011139134963117e-07
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #33
+Set 1: Set #3FilterOperator (size: 1432)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.29729050279329605
+P-value: 0.02019728772082512
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #34
+Set 1: Set #3FilterOperator (size: 1432)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.10743016759776536
+P-value: 0.5935961944426599
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #35
+Set 1: Set #4FilterOperator (size: 912)
+Set 2: Set #4FilterOperator (size: 912)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #36
+Set 1: Set #4FilterOperator (size: 912)
+Set 2: Set #5FilterOperator (size: 360)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.22770467836257302
+P-value: 3.164391298372464e-12
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #37
+Set 1: Set #4FilterOperator (size: 912)
+Set 2: Set #6RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.21846491228070175
+P-value: 0.16791100156469038
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #38
+Set 1: Set #4FilterOperator (size: 912)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.14850305110602602
+P-value: 4.3751373797003797e-07
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #39
+Set 1: Set #4FilterOperator (size: 912)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.30210526315789477
+P-value: 0.01822082957425626
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #40
+Set 1: Set #4FilterOperator (size: 912)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.10135964912280698
+P-value: 0.6750705559459833
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #41
+Set 1: Set #5FilterOperator (size: 360)
+Set 2: Set #5FilterOperator (size: 360)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #42
+Set 1: Set #5FilterOperator (size: 360)
+Set 2: Set #6RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.08777777777777784
+P-value: 0.986170139711166
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #43
+Set 1: Set #5FilterOperator (size: 360)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.37620772946859904
+P-value: 5.368807412789443e-28
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #44
+Set 1: Set #5FilterOperator (size: 360)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.5127777777777778
+P-value: 3.3049268265483e-06
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #45
+Set 1: Set #5FilterOperator (size: 360)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.27277777777777773
+P-value: 0.0022485817216737407
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #46
+Set 1: Set #6RandomSelectionOperator (size: 25)
+Set 2: Set #6RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #47
+Set 1: Set #6RandomSelectionOperator (size: 25)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.35181159420289854
+P-value: 0.0037754318657728437
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #48
+Set 1: Set #6RandomSelectionOperator (size: 25)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.48
+P-value: 0.005614410507946465
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #49
+Set 1: Set #6RandomSelectionOperator (size: 25)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.24
+P-value: 0.2799876538517835
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #50
+Set 1: Set #7FilterOperator (size: 552)
+Set 2: Set #7FilterOperator (size: 552)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #51
+Set 1: Set #7FilterOperator (size: 552)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.1723188405797102
+P-value: 0.4263374351520248
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #52
+Set 1: Set #7FilterOperator (size: 552)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✗ TEST FAILED - KS Statistic: 0.2323188405797102
+P-value: 0.01164544376132912
+Interpretation: Significant difference detected (p ≤ 0.05)
+
+Comparison #53
+Set 1: Set #8RandomSelectionOperator (size: 25)
+Set 2: Set #8RandomSelectionOperator (size: 25)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #54
+Set 1: Set #8RandomSelectionOperator (size: 25)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.24
+P-value: 0.2799876538517835
+Interpretation: No significant difference (p > 0.05)
+
+Comparison #55
+Set 1: Set #9UnionOperator (size: 50)
+Set 2: Set #9UnionOperator (size: 50)
+------------------------------
+✓ TEST PASSED - KS Statistic: 0.0
+P-value: 1.0
+Interpretation: No significant difference (p > 0.05)
+
+
+==================================================
+SUMMARY
+==================================================
+Total comparisons: 55
+Tests passed: 29
+Tests failed: 26
+
+Passing pairs (no significant difference):
+------------------------------
+• Set #0Initial set vs Set #0Initial Input (p-value: 1.0)
+• Set #0Initial set vs Set #8RandomSelectionOperator (p-value: 0.18957699136502004)
+• Set #1FilterOperator vs Set #1FilterOperator (p-value: 1.0)
+• Set #1FilterOperator vs Set #2FilterOperator (p-value: 0.4347054354517942)
+• Set #1FilterOperator vs Set #3FilterOperator (p-value: 0.24783177133672127)
+• Set #1FilterOperator vs Set #4FilterOperator (p-value: 0.6169582056534428)
+• Set #1FilterOperator vs Set #6RandomSelectionOperator (p-value: 0.18834939325637878)
+• Set #1FilterOperator vs Set #9UnionOperator (p-value: 0.7448342538087289)
+• Set #2FilterOperator vs Set #2FilterOperator (p-value: 1.0)
+• Set #2FilterOperator vs Set #3FilterOperator (p-value: 0.09758064244197959)
+• Set #2FilterOperator vs Set #4FilterOperator (p-value: 0.3308100591369915)
+• Set #2FilterOperator vs Set #6RandomSelectionOperator (p-value: 0.1905699648081901)
+• Set #2FilterOperator vs Set #9UnionOperator (p-value: 0.8416524182839551)
+• Set #3FilterOperator vs Set #3FilterOperator (p-value: 1.0)
+• Set #3FilterOperator vs Set #4FilterOperator (p-value: 0.999991732300154)
+• Set #3FilterOperator vs Set #6RandomSelectionOperator (p-value: 0.1407015551119021)
+• Set #3FilterOperator vs Set #9UnionOperator (p-value: 0.5935961944426599)
+• Set #4FilterOperator vs Set #4FilterOperator (p-value: 1.0)
+• Set #4FilterOperator vs Set #6RandomSelectionOperator (p-value: 0.16791100156469038)
+• Set #4FilterOperator vs Set #9UnionOperator (p-value: 0.6750705559459833)
+• Set #5FilterOperator vs Set #5FilterOperator (p-value: 1.0)
+• Set #5FilterOperator vs Set #6RandomSelectionOperator (p-value: 0.986170139711166)
+• Set #6RandomSelectionOperator vs Set #6RandomSelectionOperator (p-value: 1.0)
+• Set #6RandomSelectionOperator vs Set #9UnionOperator (p-value: 0.2799876538517835)
+• Set #7FilterOperator vs Set #7FilterOperator (p-value: 1.0)
+• Set #7FilterOperator vs Set #8RandomSelectionOperator (p-value: 0.4263374351520248)
+• Set #8RandomSelectionOperator vs Set #8RandomSelectionOperator (p-value: 1.0)
+• Set #8RandomSelectionOperator vs Set #9UnionOperator (p-value: 0.2799876538517835)
+• Set #9UnionOperator vs Set #9UnionOperator (p-value: 1.0)
+
+Failing pairs (significant difference detected):
+------------------------------
+• Set #0Initial set vs Set #1FilterOperator (p-value: 7.526319467859461e-91)
+• Set #0Initial set vs Set #2FilterOperator (p-value: 2.3446297772903236e-93)
+• Set #0Initial set vs Set #3FilterOperator (p-value: 1.9862974188418494e-26)
+• Set #0Initial set vs Set #4FilterOperator (p-value: 2.327255024348043e-19)
+• Set #0Initial set vs Set #5FilterOperator (p-value: 7.221811424506953e-35)
+• Set #0Initial set vs Set #6RandomSelectionOperator (p-value: 0.004245394947234082)
+• Set #0Initial set vs Set #7FilterOperator (p-value: 0.0005697767269566861)
+• Set #0Initial set vs Set #9UnionOperator (p-value: 0.003620984274529615)
+• Set #1FilterOperator vs Set #5FilterOperator (p-value: 4.450149410714053e-14)
+• Set #1FilterOperator vs Set #7FilterOperator (p-value: 7.582278367303525e-13)
+• Set #1FilterOperator vs Set #8RandomSelectionOperator (p-value: 0.008993618641909572)
+• Set #2FilterOperator vs Set #5FilterOperator (p-value: 1.9482911407790837e-13)
+• Set #2FilterOperator vs Set #7FilterOperator (p-value: 1.3198536281826206e-13)
+• Set #2FilterOperator vs Set #8RandomSelectionOperator (p-value: 0.00783060699180926)
+• Set #3FilterOperator vs Set #5FilterOperator (p-value: 3.0104250753456605e-14)
+• Set #3FilterOperator vs Set #7FilterOperator (p-value: 1.3011139134963117e-07)
+• Set #3FilterOperator vs Set #8RandomSelectionOperator (p-value: 0.02019728772082512)
+• Set #4FilterOperator vs Set #5FilterOperator (p-value: 3.164391298372464e-12)
+• Set #4FilterOperator vs Set #7FilterOperator (p-value: 4.3751373797003797e-07)
+• Set #4FilterOperator vs Set #8RandomSelectionOperator (p-value: 0.01822082957425626)
+• Set #5FilterOperator vs Set #7FilterOperator (p-value: 5.368807412789443e-28)
+• Set #5FilterOperator vs Set #8RandomSelectionOperator (p-value: 3.3049268265483e-06)
+• Set #5FilterOperator vs Set #9UnionOperator (p-value: 0.0022485817216737407)
+• Set #6RandomSelectionOperator vs Set #7FilterOperator (p-value: 0.0037754318657728437)
+• Set #6RandomSelectionOperator vs Set #8RandomSelectionOperator (p-value: 0.005614410507946465)
+• Set #7FilterOperator vs Set #9UnionOperator (p-value: 0.01164544376132912)
+
+Analysis completed at: 2026-09-29 13:00:52
