@@ -1,4 +1,4 @@
-# From LLM Assistance to Agentic AI: An Empirical Study of Source Code Diversity, Quality, and Structural Growth
+# From LLM Assistance to Agentic AI: An Empirical Study of Source Code Similarity, Quality, and Structural Growth
 
 
 
@@ -7,7 +7,7 @@ Reproduction package for
 
 ```
 From LLM Assistance to Agentic AI: An Empirical Study
-of Source Code Diversity, Quality, and Structural Growth
+of Source Code Similarity, Quality, and Structural Growth
 Luciano Marchezan ⋅ Romain Lefeuvre ⋅ Kevin Delcourt ⋅
 Benoit Combemale ⋅ Houari Sahraoui
 ```
@@ -148,3 +148,11 @@ The notebook reads `passing_origins_sample.parquet` and, for each repo, download
 1. [Create a Software Heritage account](https://archive.softwareheritage.org/oidc/login/)
 2. Once logged in, go to your [profile token page](https://archive.softwareheritage.org/oidc/profile/#tokens) and generate a new token.
 3. Copy the token into your `.env` file as `SWH_TOKEN`.
+
+# Quality Analyzer
+
+Check the README inside the Quality_Analyzer folder.
+
+# Similarity Analyzer
+
+Check the README inside the Similarity_Analyzer folder.

@@ -1,0 +1,9 @@
+tree-sitter>=0.22.0,<0.23.0
+tree-sitter-python==0.21.0
+tree-sitter-java==0.21.0
+codebleu
+sentence_transformers
+faiss-cpu
+pandas
+ijson
+pyarrow

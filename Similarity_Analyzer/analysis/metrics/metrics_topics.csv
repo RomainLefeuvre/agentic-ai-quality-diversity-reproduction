@@ -1,0 +1,66 @@
+Category,Category_Studies,Topic,Topic_Studies,Metrics
+Failures,32,Software fault prediction,18,"A;ACAIC;ACMIC;AHF;AID;AIF;AMC;AMMIC;ANA;C;Ca;CAM;CBI;CBM;CBMC;CBO;CC;Ce;CLD;Co;COF;DAC;DAM;DCAEC;DCD;DCI;DCMEC;DIT;DMMEC;Dn;EV(G);FANIN;FANOUT;I;IC;ICBMC;ICH;ICP;IV(G);LCC;LCOM;LCOM1;LCOM2;LCOM3;LCOM4;LCOM5;LOC;LSCC;MFA;MHF;MIF;MLOC;MMAC;MOA;MPC;NCLASS;NHD;NIM;NINT;NMI;NMO;NOA;NOAC;NOAI;NOC;NOD;NOM;NOP;NOPA;NOPM;NOPRA;NOPRM;NP;OCAEC;OCAIC;OCMEC;OCMIC;OLN;OMMEC;OMMIC;PCCC;PF;RFC;SCOM;SDMC;SIX;SLOC;TCC;TLCOM;V(G);WMC"
+Failures,32,Software defect prediction,8,"ACAIC;AMC;B;BLOC;C;Ca;CAM;CBM;CBO;Ce;DAC;DAM;DIT;DV(G);E;ELOC;EV(G);FANIN;FANOUT;IC;ICP;LCOM;LCOM2;LCOM3;LCOMM;LOC;MFA;MOA;MPC;n;n1;N1;n2;N2;NINT;NOA;NOC;NOM;NOPM;NPATH;RFC;RR;SEIMI;SIX;SLOC;SR;STAT;SUBC;SUPC;UWCS;V;V(G);WMC"
+Failures,32,Software bug prediction,4,"BLOC;CBO;DIT;ELOC;EV(G);FANIN;FANOUT;LCOM;LCOMM;LOC;LVAR;MLOC;NCLASS;NEST;NMI;NOA;NOAI;NOC;NOM;NOPA;NOPM;NOPRA;NOPRM;NPAR;NPATH;NSF;NSM;RFC;SLOC;STAT;SV(G);V(G);WMC"
+Failures,32,Exception handling,2,"CAAEC;LOC;LOCEH;NOCB;NOFB;NOTB"
+
+Quality,15,Software quality estimation,8,"ACAIC;AID;ANA;Ca;CAM;CBM;CBO;Ce;CIS;CLD;DAC;DAM;DCC;DIT;DSC;FANIN;FANOUT;IC;ICP;LCC;LCOM;LCOM1;LCOM2;LCOM3;LCOM4;LOC;MFA;MLOC;MOA;MPC;NCLASS;NINT;NMI;NMO;NOA;NOAI;NOAM;NOC;NOH;NOM;NOMC;NOP;NOPM;RFC;SEIMI;SUBC;SUPC;TCC;V(G);WMC"
+Quality,15,Code smells detection,3,"ATFD;C;CC;CHC;CINT;CM;COM;DCD;DCI;DIT;LCC;LCOM;LCOM1;LCOM2;LCOM3;LCOM4;LCOM5;LOC;LSCC;MLOC;NEST;NOA;NOAM;NOAV;NOC;NOM;NOPA;NPAR;TCC;V(G);WMC"
+Quality,15,Dead code predictors,2,"Ca;CBO;Ce;DIT;FANIN;FANOUT;HK;LCOMM;LOC;NMI;NMS;NOC;NOM;RFC;WMC"
+Quality,15,Software design quality,2,"AHF;ANA;CAM;CC;CIF;CIS;DAM;DSC;LCOM;LOC;MHF;MOA;NOH;NOM;NOP;NOPA;NOPM;NOPRA;NOPRM;V(G);WCCF;WMC"
+
+Complexity,14,Complex Networks,7,"A;AHF;C;Ca;CBO;COF;COR;DIT;FANIN;FANOUT;LCOM;LCOM2;LCOM5;LOC;LSCC;MHF;NCLASS;NOA;NOC;NOM;NOPA;NOPM;NPAR;RFC;SLOC;SV(G);V(G);WMC"
+Complexity,14,Cognitive complexity,3,"STAT;V(G)"
+Complexity,14,Code comprehension,2,"n1;N1;N2;NEST;NOMC;NPAR;STAT;V(G)"
+Complexity,14,Software complexity,2,"AHF;AIF;CBO;COF;DIT;LCOM;MHF;MIF;NMI;NMO;NOA;NOAC;NOC;NOM;NOPA;NOPM;NPAR;PF;RFC;SIX;STAT;V(G);WMC"
+
+Assessment,11,Metrics assessment,11,"AHF;AIF;Ca;CBO;CC;Ce;CLD;COF;D;DAC;DCO;DIT;E;FANIN;FANOUT;HC;I;ICH;IIF;LCC;LCOM;LCOM5;LOC;LSCC;MHF;MIF;MPC;NAS;NCLASS;NMI;NMO;NOA;NOAI;NOC;NOM;NOPM;PF;RFC;RR;SCOM;Size2;SR;SUBC;SUPC;TCC;V(G);WMC"
+
+Change,9,Software change proneness,8,"CBO;CI;DAM;DIT;IUC;LCOM;LOC;MOA;NIM;NIV;NOA;NOC;NOM;NOPM;NOPRM;NPAR;RFC;SLOC;V(G);WMC"
+Change,9,Code churn estimation,1,"FANOUT;LCOMM;LOC;NCLASS;NEST;NINT;NOM;NPATH;NSTR;STAT;V(G)"
+
+Cohesion,10,Software cohesion,10,"AAC;AMCoh;C;C3;C3M;CAM;CBMC;CBO;CC;COM;DCD;DCI;ICBMC;LCC;LCOM;LCOM2;LCOM3;LCOM4;LCOM5;LSCC;MMAC;MMI;MMIC;MPC;NHD;SCC;SCOM;TCC"
+
+Other,9,Creation of public datasets,4,"A; ANA; Ca; CBO; Ce; DAM; DCC; DIT; Dn; FANIN; FANOUT; I; LCOM; LOC; MFA; MLOC; MOA; NEST; NINT; NMI; NMO; NOA; NOAI; NOC; NOM; NOP; NOPA;NOPM; NOPRA; NOPRM; NPAR; NSF; NSM; RFC; SIX; SLOC; V(G); WMC"
+Other,9,Analysis of network simulators,1,"LCOMM; LOC, NOM; V(G)"
+Other,9,Ontology evaluation,1,"AHEF; AHF; AIF; CBO; COF; DIT; FANIN; FANOUT; IIF; LCOM; LOC; MHF; MIF; NOC; OHEF; PF; PPF; RFC; SEIMI; V(G); WMC"
+Other,9,Assess the impact of developer team sizes,1,"CBO; DIT; LCOM; NOC; RFC; WMC"
+Other,9,Source code information flow,1,"COOP; FANIN; FANOUT; HK; OOIF-C"
+Other,9,Comparison between AOP and OOP,1,"CBO; DIT; LCOM; NOC; RFC; WMC"
+
+Testing,8,Software testing,7,"A; Ca; CAM; CBO; Ce; DIT; Dn; I; LCOM; LOC; MLOC; NEST; NMO; NOA; NOC; NOM; NPAR; NSF; NSM; RFC; SIX; V(G); WMC"
+Testing,8,Software regression testing,1,"D; E; LOC; NPATH"
+
+Maintainability,8,Software maintainability,8,"A; B; Ca; CBO; Ce; COR; D; DAC; DIT; Dn; E; I; LCOM; LCOMM; LOC; MPC; n; N; NAA; NCONS; NMO; NOAC; NOC; NOM; NOPA; NOPM; RFC; Size1; Size2; SLOC; STAT; V; V(G); WMC"
+
+Refactoring,8,Software refactoring,7,"A; C; C3; CAM; CBMC; CBO; CC; CCBC; CCRC; DAC; DAC2; DCD; DCI; DIT; Dn; ICBMC; LCC; LCOM; LCOM1; LCOM2; LCOM3; LCOM4; LCOM5; LOC; LSCC; MMAC; MPC; NHD; NMI; NMO; NOA; NOAS; NOC; NOM; OCMEC; OLN; PCCC; RFC; SCOM; SIX; TCC; V(G); WMC"
+Refactoring,8,Refactor crosscutting concerns,1,"Ce; DIT; LCOM; LOC; NCLASS; NOA; NOC; NOM; V(G); WMC"
+
+Thresholds,7,Metric thresholds,7,"Ca; CBO; COF; DIT; FANIN; FANOUT; LCOM; LOC; NOA; NOC; NOM; NOPA; NOPM; NPAR; RFC; V(G); WMC"
+
+Performance,4,Predict software build outcomes,2,"A; B; Ca; Ce; D; DIT; Dn; E; I; LCOM1; LCOM2; LCOM3; LCOMM; LOC; n; N; n1; N1; n2; N2; NCONS; NEST; NINT; NOA; NOM; NPAR; SEIMI; V; V(G); WMC"
+Performance,4,Software performance,1,"CLD; DIT; FANIN; FANOUT; NOA; NOAI; NOAM; NOC; NOM; NOPM"
+Performance,4,Code efficiency,1,"AHF; CBO; DIT; LOC; MHF; NOC; RFC; V(G); WMC"
+
+Reliability,5,Software reliability,5,"A; AHF; Ca; CBO; Ce; DIT; Dn; EC2M; I; LCOM; LOC; MHF; NEST; NOC; NOM; NPAR; RFC; V(G); WMC"
+
+Tools,5,Tool for metric extraction/measurement programs,5,"NA; BLOC; CBO; DAM; DCC; DIT; LCOM; LCOMM; LOC; MFA; MOA; NOA; NOC; NOM; NOP; NOPA; NOPM; RFC; SLOC; SUBC; V(G); WMC"
+
+Coupling,4,Software coupling,4,"ACAIC; ACMIC; AHF; CBO; DAC; FANIN; FANOUT; ICP; MHF; MPC; NAS; NOC; NOPA; NUCC; NUCD; OCAIC; OCMIC; RFC"
+Evolution,4,Software evolution,4,"CBO; LCOM; LOC; NOA; NOC; NOM; NOPM; RFC; SLOC; WMC"
+Plagiarism,4,Source code author identification,1,"LCOMM; LOC"
+Plagiarism,4,Code plagiarism detection,1,"BLOC; LCOMM; LOC; NOA; NOM; SLOC; V(G)"
+Plagiarism,4,Pattern detection,1,"NOA; NOM"
+Plagiarism,4,Code ownership,1,"LOC"
+Reusability,4,Software reusability,4,"CAM; CBO; CIS; DCC; DIT; DIC; DSC; LCOM; NOC; RFC; WMC"
+Inheritance,3,Software inheritance,3,"ANDC; ANIC; CBO; DBRM; DIT; DIC; EANDC; EANIC; EDBRM; FANIN; FANOUT; NAS"
+Methodologies,2,Metrics classification,1,"DIT; NOA; NOC; CBO; RFC; WMC"
+Methodologies,2,Metrics measurement framework,1,"CBO"
+Security,2,Software security,1,"EV(G); FANIN; FANOUT; LCOMM; LOC; NCLASS; NEST; NOFC; NOM; SV(G)"
+Security,2,Software vulnerabilities,1,"CBO; DIT; EV(G); FANIN; FANOUT; HK; LCOM; LCOMM; MV(G); NOC; NPATH; RFC; SLOC; SUPC; SV(G); V(G); WMC"
+Size,2,Software size,2,"Ca; Ce; DIT; LCOM; LOC; NOA; NOC; NOM"
+Usability,2,Software usability,2,"CBO; DIT; LCOM; NOC; RFC; WMC"
+Attractiveness,1,Software attractiveness,1,"CBO; LCOM4; LOC; NOA; NOM; NOPA; NOPM"
+Rejuvenation,1,Software rejuvenation,1,"ANA; DAM; DCC; MFA; MOA; NOP"
+Responsibility,1,Software responsibility,1,"A; I"
+Understandability,1,Software understandability,1,"Ca; Ce; Dn; I; NCLASS"

@@ -1,0 +1,167 @@
+Metric,Acronym
+Abstractness,A
+Low-level Similarity Base Class Cohesion,RMA
+Attribute–Attribute Cohesion,AAC
+Number of Local Variables in a Method,LVAR
+Ancestor Class-Attribute Import Coupling,ACAIC
+Measure of Functional Abstraction,MFA
+Ancestor Class-Method Import Coupling,ACMIC
+Method Hiding Factor,MHF
+Attribute Hiding Effectiveness Factor,AHEF
+Method Inheritance Factor,MIF
+Attribute Hiding Factor,AHF
+Method Lines of Code,MLOC
+Average Inheritance Depth of a Class,AID
+Method–Method through Attributes Cohesion,MMAC
+Attribute Inheritance Factor,AIF
+Method-Method Interaction-Based Cohesion,MMI
+Average Method Complexity,AMC
+Method–Method Invocation Cohesion,MMIC
+Attribute–Method Cohesion,AMCoh
+Method–Method Invocation Cohesion,MMC
+Ancestor Method-Method Import Coupling,AMMIC
+Method of Aggregation,MOA
+Average Number of Ancestors,ANA
+Message Passage Coupling,MPC
+Average Number of Ancestors,ACA
+Modified Cyclomatic Complexity,MV(G)
+Average Number of Direct Child,ANDC
+Program Vocabulary,n
+Average Number of Indirect Child,ANIC
+Program Length,N
+Access To Foreign Data,ATFD
+Number of Distinct Operators,n1
+Number of Delivery Bugs,B
+Total Number of Operators,N1
+Blank Lines of Code,BLOC
+Number of Distinct Operands,n2
+Cohesion,C
+Total Number of Operands,N2
+Cohesion,Coh
+Number of Attributes Added,NAA
+Conceptual Cohesion of Classes,C3
+Number of Associations per Class,NAS
+Class Cohesion Complexity Metric,C3M
+Number of Classes,NCLASS
+Class Cohesion Complexity Metric,C3M
+Number of Classes,NC
+Afferent Couplings,Ca
+Number of Constructors,NCONS
+Afferent Couplings,AC
+Number of Constructors,CONS
+Catch Area Average Exception in a Class,CAAEC
+Nesting Level,NEST
+Cohesion Among Methods,CAM
+Nesting Level,BD
+Cohesion Among Methods,CAMC
+Nesting Level,MAXNEST
+Coupling Based on Inheritance,CBI
+Nesting Level,NBD
+Coupling Between Methods,CBM
+Normalized Hamming Distance,NHD
+Cohesion Based on Member Connectivity,CBMC
+Number of Instance Methods,NIM
+Coupling Between Objects,CBO
+Number of Interfaces,NINT
+Coupling Between Objects,CBO
+Number of Interfaces,NOI
+Class Cohesion,CC
+Number of Instance Variables,NIV
+Conceptual Coupling Between Classes,CCBC
+Number of Methods Inherited,NMI
+Class Category Relational Cohesion,CCRC
+Number of Methods Inherited,NOMI
+Efferent Couplings,Ce
+Number of Methods Inherited,NIM
+Coupling of Field Access,CFA
+Number of Overridden Methods,NMO
+Change Index,CI
+Number of Overridden Methods,NOO
+Class Inheritance Factor,CIF
+Number of Overridden Methods,NORM
+Coupling Intensity,CINT
+Number of Overridden Methods,NOVM
+Class Interface Size,CIS
+Number of Overridden Methods,NOOC
+Class to Leaf Depth,CLD
+Number of Message Sends,NMS
+Changing Methods,CM
+Number of Attributes,NOA
+Coupling of Method Call,CMC
+Number of Attributes,NOF
+Class Method Inheritance Factor,CMIF
+Number of Attributes,NA
+Connectivity,Co
+Number of Attributes,NF
+Coupling Factor,COF
+Number of Operations Added,NOAC
+Coupling Factor,CF
+Number of Operations Added,NMA
+Class Cohesion Metric,COM
+Number of Operations Added,NNM
+Class Cohesion Metric,SCOM
+Number of Attributes Inherited,NOAI
+Calls in Object Oriented Programming,COOP
+Number of Attributes Inherited,NIA
+Cohesion of Responsibility,COR
+Number Of Accessor Methods,NOAM
+Changing Classes,CHC
+Number of Operations Added by a Subclass,NOAS
+Changing Classes,CC
+Number Of Accessed Variables,NOAV
+Difficulty,D
+Number of Children,NOC
+Data Abstraction Coupling,DAC
+Number of Children,NSC
+Data Abstraction Coupling 2,DAC2
+Number of Catch Blocks,NOCB
+Data Access Metric,DAM
+Number of Catch Blocks,NOC
+Derive Base Ratio Metric,DBRM
+Number of Descendants,NOD
+Descendant Class-Attribute Export Coupling,DCAEC
+Number of Finally Blocks,NOFB
+Direct Class Coupling,DCC
+Number of Finally Blocks,NOF
+Degree of Cohesion-Direct,DCD
+Number of Feature Constants,NOFC
+Degree of Cohesion-Indirect,DCI
+Number of Hierarchies,NOH
+Descendant Class-Method Export Coupling,DCMEC
+Number of Hierarchies,NH
+Degree of Cohesion Objects,DCO
+Number of Methods,NOM
+Depth of Inheritance Tree,DIT
+Number of Methods,NM
+Depth of Inheritance of Class,DIC
+Number of Methods,MPC
+Descendant Method-Method Export Coupling,DMMEC
+Number of Methods,NCM
+Normalized Distance from Main Sequence,Dn
+Number of Methods,NOO
+Normalized Distance from Main Sequence,DMS
+Number of Methods,TNM
+Normalized Distance from Main Sequence,RMD
+Number of Methods Called,NOMC
+Normalized Distance from Main Sequence,D
+Number of Methods Called,NFC
+Degree of Focus,DOF
+Number of Polymorphic Methods,NOP
+Degree of Scattering,DOS
+Number of Polymorphic Methods,CPM
+Design Size in Classes,DSC
+Number of Public Attributes,NOPA
+Design Size in Classes,DC
+Number of Public Attributes,PUBA
+Design Cyclomatic Complexity,DV(G)
+Number of Public Attributes,NOAP
+Effort,E
+Number of Public Attributes,PF
+Extended Average Number of Direct Child,EANDC
+Number of Public Attributes,NPV
+Extended Average Number of Indirect Child,EANIC
+Number of Public Methods,NOPM
+Encapsulated Class Complexity Metric,EC2M
+Number of Public Methods,NPM
+Extended Derived Base Ratio Metrics,EDBRM
+Number of Public Methods,PM

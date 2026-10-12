@@ -1,0 +1,151 @@
+project_name,snapshot_folder,snapshot_commit,snapshot_date,first_commit_analyzed,last_commit_analyzed,commits,lines_added,lines_removed,error
+0000_RockyLOMO_rxlib,0000_RockyLOMO_rxlib_88b5264ab22d,88b5264ab22d,2021-12-27T15:31:59+08:00,2021-10-02T10:22:15+08:00,2021-12-27T15:31:59+08:00,189.0,7690.0,5380.0,
+0001_RockyLOMO_rxlib,0001_RockyLOMO_rxlib_ee74de713ebf,ee74de713ebf,2024-12-09T18:40:11+08:00,2024-09-23T15:03:46+08:00,2024-12-09T18:40:11+08:00,38.0,1221.0,713.0,
+0002_RockyLOMO_rxlib,0002_RockyLOMO_rxlib_5d9bc8d39c7c,5d9bc8d39c7c,2026-04-03T03:18:39+00:00,2026-01-04T18:37:42+08:00,2026-04-03T03:18:39+00:00,186.0,12606.0,6473.0,
+0003_cgeo_cgeo,0003_cgeo_cgeo_509883af5b6d,509883af5b6d,2021-12-29T19:06:45+01:00,2021-09-29T20:19:46+02:00,2021-12-29T19:06:45+01:00,529.0,34777.0,24316.0,
+0004_cgeo_cgeo,0004_cgeo_cgeo_8f983a7b79e6,8f983a7b79e6,2024-12-25T13:00:17+01:00,2024-09-27T21:42:02+02:00,2024-12-25T13:00:17+01:00,307.0,17824.0,19977.0,
+0005_cgeo_cgeo,0005_cgeo_cgeo_8f32a27bc611,8f32a27bc611,2026-05-03T19:20:07+02:00,2026-02-04T21:29:05+01:00,2026-05-03T19:20:07+02:00,167.0,13418.0,7303.0,
+0006_fr3ts0n_AndrOBD,0006_fr3ts0n_AndrOBD_5549febfb5fa,5549febfb5fa,2021-12-20T18:51:03+01:00,2021-09-21T12:56:25+02:00,2021-12-20T18:51:03+01:00,62.0,4163.0,2980.0,
+0007_fr3ts0n_AndrOBD,0007_fr3ts0n_AndrOBD_7bf7133fb972,7bf7133fb972,2024-11-24T20:13:19+01:00,2024-09-12T17:18:04+02:00,2024-11-24T20:13:19+01:00,4.0,392.0,309.0,
+0008_fr3ts0n_AndrOBD,0008_fr3ts0n_AndrOBD_c945feca32c9,c945feca32c9,2026-05-11T10:55:50+02:00,2026-02-11T20:09:46+00:00,2026-05-11T10:55:50+02:00,62.0,6519.0,917.0,
+0009_Zettelkasten-Team_Zettelkasten,0009_Zettelkasten-Team_Zettelkasten_371175aaa4e3,371175aaa4e3,,,,,,,Commit 371175aaa4e3 not found in repository.
+0010_Zettelkasten-Team_Zettelkasten,0010_Zettelkasten-Team_Zettelkasten_b2b3484326be,b2b3484326be,2024-11-09T15:27:56+01:00,2024-09-05T15:16:00+02:00,2024-11-09T15:27:56+01:00,22.0,991.0,1880.0,
+0011_Zettelkasten-Team_Zettelkasten,0011_Zettelkasten-Team_Zettelkasten_77313b1fe087,77313b1fe087,2026-01-25T22:10:49+01:00,2025-12-23T19:16:09+01:00,2026-01-25T22:10:49+01:00,44.0,4409.0,399.0,
+0012_AdamaJava_adamajava,0012_AdamaJava_adamajava_d001a2d1dceb,d001a2d1dceb,2021-12-24T00:53:06+00:00,2021-09-27T21:48:50+10:00,2021-12-24T00:53:06+00:00,77.0,8592.0,4895.0,
+0013_AdamaJava_adamajava,0013_AdamaJava_adamajava_e3968a72f476,e3968a72f476,2024-11-29T03:29:00+00:00,2024-09-11T12:19:00+10:00,2024-11-29T03:29:00+00:00,57.0,7929.0,2525.0,
+0014_AdamaJava_adamajava,0014_AdamaJava_adamajava_d15c117378c7,d15c117378c7,2026-05-14T00:42:34+00:00,2026-02-27T14:07:58+10:00,2026-05-14T00:42:34+00:00,56.0,5820.0,4837.0,
+0015_ta4j_ta4j,0015_ta4j_ta4j_8994ecbc9e64,8994ecbc9e64,2021-10-11T20:21:14+02:00,2021-10-11T20:21:14+02:00,2021-10-11T20:21:14+02:00,1.0,16.0,15.0,
+0016_ta4j_ta4j,0016_ta4j_ta4j_ccaee65ff838,ccaee65ff838,2024-12-16T08:40:21-05:00,2024-09-18T14:51:19-04:00,2024-12-16T08:40:21-05:00,113.0,70313.0,23167.0,
+0017_ta4j_ta4j,0017_ta4j_ta4j_0f637ec08abc,0f637ec08abc,2026-05-18T13:28:38-04:00,2026-02-21T13:14:29-05:00,2026-05-18T13:28:38-04:00,389.0,542621.0,32077.0,
+0018_sakaiproject_sakai,0018_sakaiproject_sakai_161305e1acde,161305e1acde,,,,,,,Commit 161305e1acde not found in repository.
+0019_sakaiproject_sakai,0019_sakaiproject_sakai_9cda7021efa3,9cda7021efa3,,,,,,,Commit 9cda7021efa3 not found in repository.
+0020_sakaiproject_sakai,0020_sakaiproject_sakai_a092dbf3dc6b,a092dbf3dc6b,,,,,,,Commit a092dbf3dc6b not found in repository.
+0021_Iterable_iterable-android-sdk,0021_Iterable_iterable-android-sdk_f0a694a31c29,f0a694a31c29,2021-12-17T14:26:20-08:00,2021-09-21T22:17:05+05:30,2021-12-17T14:26:20-08:00,54.0,6475.0,2782.0,
+0022_Iterable_iterable-android-sdk,0022_Iterable_iterable-android-sdk_8fdec83bb64a,8fdec83bb64a,2024-12-12T14:58:24-08:00,2024-11-19T10:09:26-08:00,2024-12-12T14:58:24-08:00,13.0,304.0,90.0,
+0023_Iterable_iterable-android-sdk,0023_Iterable_iterable-android-sdk_829bd6cff96b,829bd6cff96b,2026-06-01T09:07:44+01:00,2026-03-10T08:29:38+00:00,2026-06-01T09:07:44+01:00,23.0,6816.0,762.0,
+0024_wso2_carbon-identity-framework,0024_wso2_carbon-identity-framework_8ee11f7d29a0,8ee11f7d29a0,,,,,,,Commit 8ee11f7d29a0 not found in repository.
+0025_wso2_carbon-identity-framework,0025_wso2_carbon-identity-framework_f70492edb25c,f70492edb25c,,,,,,,Commit f70492edb25c not found in repository.
+0026_wso2_carbon-identity-framework,0026_wso2_carbon-identity-framework_463b223a8af6,463b223a8af6,,,,,,,Commit 463b223a8af6 not found in repository.
+0027_GoogleCloudPlatform_DataflowTemplates,0027_GoogleCloudPlatform_DataflowTemplates_9dd14da865f4,9dd14da865f4,,,,,,,Commit 9dd14da865f4 not found in repository.
+0028_GoogleCloudPlatform_DataflowTemplates,0028_GoogleCloudPlatform_DataflowTemplates_8e7ae4f91b0b,8e7ae4f91b0b,,,,,,,Commit 8e7ae4f91b0b not found in repository.
+0029_GoogleCloudPlatform_DataflowTemplates,0029_GoogleCloudPlatform_DataflowTemplates_0d4af552becc,0d4af552becc,,,,,,,Commit 0d4af552becc not found in repository.
+0030_apache_flink,0030_apache_flink_d08a1d0f4035,d08a1d0f4035,,,,,,,Commit d08a1d0f4035 not found in repository.
+0031_apache_flink,0031_apache_flink_1523f2c2062b,1523f2c2062b,,,,,,,Commit 1523f2c2062b not found in repository.
+0032_apache_flink,0032_apache_flink_1990310135ed,1990310135ed,,,,,,,Commit 1990310135ed not found in repository.
+0033_HL7_fhir-ig-publisher,0033_HL7_fhir-ig-publisher_1371be08b19f,1371be08b19f,2021-12-24T11:56:33+11:00,2021-09-29T16:22:36+10:00,2021-12-24T11:56:33+11:00,113.0,6233.0,5094.0,
+0034_HL7_fhir-ig-publisher,0034_HL7_fhir-ig-publisher_c350f1247014,c350f1247014,2024-12-18T00:25:47+00:00,2024-09-21T05:57:36-04:00,2024-12-18T00:25:47+00:00,220.0,10963.0,3766.0,
+0035_HL7_fhir-ig-publisher,0035_HL7_fhir-ig-publisher_a420af2b3892,a420af2b3892,2026-06-01T10:39:34-04:00,2026-03-02T05:41:15+11:00,2026-06-01T10:39:34-04:00,141.0,2972.0,2035.0,
+0036_dbeaver_dbeaver,0036_dbeaver_dbeaver_2e1a4eda8b07,2e1a4eda8b07,,,,,,,Commit 2e1a4eda8b07 not found in repository.
+0037_dbeaver_dbeaver,0037_dbeaver_dbeaver_2b5d23aaf4fb,2b5d23aaf4fb,2024-12-22T16:00:21+01:00,2024-09-23T13:38:25+02:00,2024-12-22T16:00:21+01:00,332.0,34507.0,18295.0,
+0038_dbeaver_dbeaver,0038_dbeaver_dbeaver_fd4f5babfd75,fd4f5babfd75,2026-05-31T21:57:51+02:00,2026-03-01T06:54:11+01:00,2026-05-31T21:57:51+02:00,401.0,56101.0,22144.0,
+0039_reposense_RepoSense,0039_reposense_RepoSense_1fcd96e3d523,1fcd96e3d523,2021-12-17T20:45:56+08:00,2021-12-12T17:26:46+08:00,2021-12-17T20:45:56+08:00,3.0,65.0,33.0,
+0040_reposense_RepoSense,0040_reposense_RepoSense_33df258c39e5,33df258c39e5,2024-10-30T22:32:19+08:00,2024-08-03T06:57:10+08:00,2024-10-30T22:32:19+08:00,8.0,406.0,267.0,
+0041_reposense_RepoSense,0041_reposense_RepoSense_54f77a0564ae,54f77a0564ae,2026-04-18T20:23:46+08:00,2026-01-19T13:34:36+08:00,2026-04-18T20:23:46+08:00,22.0,8798.0,1238.0,
+0042_hyperledger_besu,0042_hyperledger_besu_ed9d64d9cb8d,ed9d64d9cb8d,,,,,,,Commit ed9d64d9cb8d not found in repository.
+0043_hyperledger_besu,0043_hyperledger_besu_2909ea477606,2909ea477606,,,,,,,Commit 2909ea477606 not found in repository.
+0044_hyperledger_besu,0044_hyperledger_besu_3249991134e1,3249991134e1,,,,,,,Commit 3249991134e1 not found in repository.
+0045_Apicurio_apicurio-registry,0045_Apicurio_apicurio-registry_e3b0597aeb01,e3b0597aeb01,2021-12-23T11:08:53-05:00,2021-09-24T10:00:38-04:00,2021-12-23T11:08:53-05:00,188.0,17031.0,5401.0,
+0046_Apicurio_apicurio-registry,0046_Apicurio_apicurio-registry_17fd138ce78c,17fd138ce78c,2024-12-19T14:34:13+00:00,2024-09-19T11:13:51-04:00,2024-12-19T14:34:13+00:00,375.0,78990.0,45280.0,
+0047_Apicurio_apicurio-registry,0047_Apicurio_apicurio-registry_7a49499d62a1,7a49499d62a1,2026-05-29T10:15:18+01:00,2026-02-28T14:24:46-05:00,2026-05-29T10:15:18+01:00,487.0,174062.0,50279.0,
+0048_apache_fineract,0048_apache_fineract_bf2b8296e9fb,bf2b8296e9fb,,,,,,,Commit bf2b8296e9fb not found in repository.
+0049_apache_fineract,0049_apache_fineract_23850a1b7312,23850a1b7312,,,,,,,Commit 23850a1b7312 not found in repository.
+0050_apache_fineract,0050_apache_fineract_800f6b0a0084,800f6b0a0084,,,,,,,Commit 800f6b0a0084 not found in repository.
+0051_Camelcade_Perl5-IDEA,0051_Camelcade_Perl5-IDEA_4cd52d6d91ea,4cd52d6d91ea,,,,,,,Full repository not found: ../projects\_full_repositories\lucianoMarchezan_codehistorian
+0052_Camelcade_Perl5-IDEA,0052_Camelcade_Perl5-IDEA_0821fedb4382,0821fedb4382,,,,,,,Full repository not found: ../projects\_full_repositories\lucianoMarchezan_codehistorian
+0053_Camelcade_Perl5-IDEA,0053_Camelcade_Perl5-IDEA_7a34dc7bebfd,7a34dc7bebfd,,,,,,,Full repository not found: ../projects\_full_repositories\lucianoMarchezan_codehistorian
+0054_treasure-data_td-client-java,0054_treasure-data_td-client-java_6e40bfd4061f,6e40bfd4061f,2021-08-23T09:02:31-07:00,2021-08-19T15:27:14-07:00,2021-08-23T09:02:31-07:00,6.0,98.0,7.0,
+0055_treasure-data_td-client-java,0055_treasure-data_td-client-java_518bf44546d2,518bf44546d2,2024-12-18T22:24:57+09:00,2024-12-18T22:24:57+09:00,2024-12-18T22:24:57+09:00,1.0,5.0,0.0,
+0056_treasure-data_td-client-java,0056_treasure-data_td-client-java_f01c483ecf00,f01c483ecf00,2026-03-03T17:00:35+09:00,2026-03-02T16:42:51+09:00,2026-03-03T17:00:35+09:00,3.0,3.0,3.0,
+0057_elasticsoftwarefoundation_elasticactors,0057_elasticsoftwarefoundation_elasticactors_803ddb05dc19,803ddb05dc19,,,,,,,Commit 803ddb05dc19 not found in repository.
+0058_elasticsoftwarefoundation_elasticactors,0058_elasticsoftwarefoundation_elasticactors_ce2d660deacb,ce2d660deacb,,,,,,,Commit ce2d660deacb not found in repository.
+0059_elasticsoftwarefoundation_elasticactors,0059_elasticsoftwarefoundation_elasticactors_cad537e39f81,cad537e39f81,,,,,,,Commit cad537e39f81 not found in repository.
+0060_mybatis_generator,0060_mybatis_generator_47260575f1c7,47260575f1c7,,,,,,,Commit 47260575f1c7 not found in repository.
+0061_mybatis_generator,0061_mybatis_generator_1ed976104f5d,1ed976104f5d,,,,,,,Commit 1ed976104f5d not found in repository.
+0062_mybatis_generator,0062_mybatis_generator_60e256c583d5,60e256c583d5,,,,,,,Commit 60e256c583d5 not found in repository.
+0063_plume-lib_plume-util,0063_plume-lib_plume-util_14692ca6c1d4,14692ca6c1d4,2021-12-15T14:16:33-08:00,2021-09-23T13:16:19-07:00,2021-12-15T14:16:33-08:00,11.0,226.0,175.0,
+0064_plume-lib_plume-util,0064_plume-lib_plume-util_42473c5f88ed,42473c5f88ed,2024-12-21T10:00:13+00:00,2024-09-24T10:58:49+00:00,2024-12-21T10:00:13+00:00,29.0,83.0,54.0,
+0065_plume-lib_plume-util,0065_plume-lib_plume-util_a60283d5e074,a60283d5e074,2026-06-02T14:08:24-07:00,2026-03-03T13:01:29+00:00,2026-06-02T14:08:24-07:00,47.0,1201.0,1061.0,
+0066_MegaMek_mekhq,0066_MegaMek_mekhq_64d52a79c7e8,64d52a79c7e8,2021-12-24T16:13:08-05:00,2021-09-25T10:56:33-04:00,2021-12-24T16:13:08-05:00,307.0,7953583.0,2824860.0,
+0067_MegaMek_mekhq,0067_MegaMek_mekhq_150f2d36c75c,150f2d36c75c,2024-12-22T17:37:32-07:00,2024-09-23T16:05:57-05:00,2024-12-22T17:37:32-07:00,1485.0,2779756.0,1764255.0,
+0068_MegaMek_mekhq,0068_MegaMek_mekhq_4f7dd0707e40,4f7dd0707e40,2026-05-14T17:18:59-07:00,2026-02-15T12:46:26-05:00,2026-05-14T17:18:59-07:00,420.0,95333.0,119238.0,
+0069_pulumi_pulumi-gitlab,0069_pulumi_pulumi-gitlab_f6ca1e889d05,f6ca1e889d05,2021-11-30T09:02:40+01:00,2021-11-12T10:08:03-05:00,2021-11-30T09:02:40+01:00,8.0,9473.0,3319.0,
+0070_pulumi_pulumi-gitlab,0070_pulumi_pulumi-gitlab_0d08624334de,0d08624334de,2024-12-24T05:43:53+00:00,2024-09-24T23:45:13+00:00,2024-12-24T05:43:53+00:00,43.0,57577.0,4695.0,
+0071_pulumi_pulumi-gitlab,0071_pulumi_pulumi-gitlab_3c4f115029fa,3c4f115029fa,2026-05-15T06:54:14+00:00,2026-02-18T06:10:20+00:00,2026-05-15T06:54:14+00:00,56.0,75925.0,35664.0,
+0072_MyCoRe-Org_mycore,0072_MyCoRe-Org_mycore_2e783425d027,2e783425d027,2021-12-19T22:22:45+01:00,2021-09-20T14:16:10+02:00,2021-12-19T22:22:45+01:00,75.0,9046.0,4494.0,
+0073_MyCoRe-Org_mycore,0073_MyCoRe-Org_mycore_c28201729b6f,c28201729b6f,2024-12-18T18:21:33+01:00,2024-09-19T09:18:14+02:00,2024-12-18T18:21:33+01:00,93.0,48396.0,43549.0,
+0074_MyCoRe-Org_mycore,0074_MyCoRe-Org_mycore_ad476fa1406b,ad476fa1406b,2026-04-24T16:00:19+02:00,2026-01-29T11:36:03+01:00,2026-04-24T16:00:19+02:00,132.0,25236.0,22505.0,
+0075_theochem_iodata,0075_theochem_iodata_73eee89111bc,73eee89111bc,2021-10-18T23:12:14+02:00,2021-08-09T16:54:55-04:00,2021-10-18T23:12:14+02:00,13.0,5183.0,100.0,
+0076_theochem_iodata,0076_theochem_iodata_f8af4e8aa4e3,f8af4e8aa4e3,2024-07-14T14:25:18-04:00,2024-05-03T07:53:50+02:00,2024-07-14T14:25:18-04:00,222.0,56984.0,30028.0,
+0077_theochem_iodata,0077_theochem_iodata_e6a606e985a4,e6a606e985a4,2026-02-07T13:12:44+01:00,2025-11-09T16:24:26+01:00,2026-02-07T13:12:44+01:00,49.0,8520.0,726.0,
+0078_modflowpy_flopy,0078_modflowpy_flopy_1f21a862d603,1f21a862d603,2021-08-06T18:17:47-05:00,2021-05-07T06:29:23-05:00,2021-08-06T18:17:47-05:00,38.0,90637.0,52717.0,
+0079_modflowpy_flopy,0079_modflowpy_flopy_fe04db941667,fe04db941667,2024-12-20T07:59:45-05:00,2024-09-27T11:16:17-07:00,2024-12-20T07:59:45-05:00,55.0,39016.0,71174.0,
+0080_modflowpy_flopy,0080_modflowpy_flopy_7707e5c6aa3c,7707e5c6aa3c,2026-02-06T18:41:32-05:00,2025-11-17T16:24:32-05:00,2026-02-06T18:41:32-05:00,44.0,25639.0,9751.0,
+0081_EsupPortail_Esup-Pod,0081_EsupPortail_Esup-Pod_f942181a5575,f942181a5575,2021-11-23T15:31:40+01:00,2021-08-25T17:28:02+02:00,2021-11-23T15:31:40+01:00,231.0,584719.0,594093.0,
+0082_EsupPortail_Esup-Pod,0082_EsupPortail_Esup-Pod_574184346951,574184346951,2024-12-04T10:09:03+01:00,2024-09-04T17:14:25+02:00,2024-12-04T10:09:03+01:00,41.0,3125.0,11511.0,
+0083_EsupPortail_Esup-Pod,0083_EsupPortail_Esup-Pod_82a38ac96325,82a38ac96325,2026-03-03T11:10:13+01:00,2025-12-04T09:34:45+01:00,2026-03-03T11:10:13+01:00,30.0,19009.0,4866.0,
+0084_healpy_healpy,0084_healpy_healpy_c34d032edaef,c34d032edaef,2021-11-08T14:28:06-08:00,2021-09-10T08:50:48+01:00,2021-11-08T14:28:06-08:00,8.0,117.0,12.0,
+0085_healpy_healpy,0085_healpy_healpy_dd0506a4b51c,dd0506a4b51c,2024-12-06T08:00:40-05:00,2024-09-10T09:39:31-04:00,2024-12-06T08:00:40-05:00,28.0,140.0,106.0,
+0086_healpy_healpy,0086_healpy_healpy_98cdfc402b1c,98cdfc402b1c,2026-04-13T16:34:36-07:00,2026-02-05T22:50:41+00:00,2026-04-13T16:34:36-07:00,23.0,1635.0,164.0,
+0087_aleph-im_pyaleph,0087_aleph-im_pyaleph_ceb01ca211a1,ceb01ca211a1,2021-12-14T10:05:37+01:00,2021-09-28T23:31:02+02:00,2021-12-14T10:05:37+01:00,53.0,3014.0,2318.0,
+0088_aleph-im_pyaleph,0088_aleph-im_pyaleph_b5ee69001e09,b5ee69001e09,2024-12-17T14:04:48+01:00,2024-09-24T17:29:13+02:00,2024-12-17T14:04:48+01:00,55.0,3621.0,1897.0,
+0089_aleph-im_pyaleph,0089_aleph-im_pyaleph_26c18a9d57e2,26c18a9d57e2,2026-06-01T19:50:20+02:00,2026-03-05T10:29:45+01:00,2026-06-01T19:50:20+02:00,118.0,15900.0,1962.0,
+0090_cupy_cupy,0090_cupy_cupy_0757aa31a107,0757aa31a107,2021-12-28T18:09:05+09:00,2021-09-28T09:49:06+00:00,2021-12-28T18:09:05+09:00,951.0,103324.0,182509.0,
+0091_cupy_cupy,0091_cupy_cupy_05c9ff2466ea,05c9ff2466ea,2024-12-24T16:48:32+09:00,2024-09-24T10:07:36-04:00,2024-12-24T16:48:32+09:00,295.0,31373.0,14767.0,
+0092_cupy_cupy,0092_cupy_cupy_1d30cf08588f,1d30cf08588f,2026-05-13T22:13:44-07:00,2026-02-14T21:51:06+01:00,2026-05-13T22:13:44-07:00,415.0,74881.0,49472.0,
+0093_pypa_twine,0093_pypa_twine_d82cd00d216f,d82cd00d216f,2021-12-07T06:40:13-05:00,2021-09-16T08:46:12-04:00,2021-12-07T06:40:13-05:00,34.0,668.0,192.0,
+0094_pypa_twine,0094_pypa_twine_2386ca5300cd,2386ca5300cd,2024-12-19T09:58:57-06:00,2024-09-25T19:51:34+02:00,2024-12-19T09:58:57-06:00,67.0,1593.0,952.0,
+0095_pypa_twine,0095_pypa_twine_4f20c0dc374b,4f20c0dc374b,2026-05-09T11:23:05-07:00,2026-02-27T17:16:15-05:00,2026-05-09T11:23:05-07:00,17.0,103.0,120.0,
+0096_python-telegram-bot_python-telegram-bot,0096_python-telegram-bot_python-telegram-bot_c4b413ef9e37,c4b413ef9e37,2021-12-17T16:12:34+01:00,2021-10-03T20:08:04+02:00,2021-12-17T16:12:34+01:00,9.0,1842.0,152.0,
+0097_python-telegram-bot_python-telegram-bot,0097_python-telegram-bot_python-telegram-bot_4f255b6e21de,4f255b6e21de,2024-12-15T10:26:37+01:00,2024-09-17T18:09:19+02:00,2024-12-15T10:26:37+01:00,41.0,5436.0,2118.0,
+0098_python-telegram-bot_python-telegram-bot,0098_python-telegram-bot_python-telegram-bot_85294fb58d62,85294fb58d62,2026-05-08T16:07:39-04:00,2026-02-10T17:22:38+01:00,2026-05-08T16:07:39-04:00,57.0,6900.0,2145.0,
+0099_Exa-Networks_exabgp,0099_Exa-Networks_exabgp_fd5925ff33f2,fd5925ff33f2,2021-11-21T23:40:54+00:00,2021-08-27T12:47:24+00:00,2021-11-21T23:40:54+00:00,39.0,580.0,315.0,
+0100_Exa-Networks_exabgp,0100_Exa-Networks_exabgp_d3af6fd53933,d3af6fd53933,2024-12-09T22:34:48+00:00,2024-09-25T01:25:07+01:00,2024-12-09T22:34:48+00:00,40.0,3505.0,3596.0,
+0101_Exa-Networks_exabgp,0101_Exa-Networks_exabgp_4fce4910302b,4fce4910302b,2026-04-29T22:58:35+01:00,2026-02-20T14:49:29+00:00,2026-04-29T22:58:35+01:00,62.0,3952.0,1444.0,
+0102_spacetelescope_jdaviz,0102_spacetelescope_jdaviz_aaa2e85ebb57,aaa2e85ebb57,2021-12-17T13:11:37-05:00,2021-09-17T14:50:43-04:00,2021-12-17T13:11:37-05:00,288.0,10531.0,2599.0,
+0103_spacetelescope_jdaviz,0103_spacetelescope_jdaviz_48be1548a8b0,48be1548a8b0,2024-12-24T11:44:34-05:00,2024-09-26T11:27:19-04:00,2024-12-24T11:44:34-05:00,124.0,12166.0,6719.0,
+0104_spacetelescope_jdaviz,0104_spacetelescope_jdaviz_1bbeed4655ed,1bbeed4655ed,2026-06-01T16:54:46-04:00,2026-03-02T09:20:11-05:00,2026-06-01T16:54:46-04:00,109.0,15822.0,4623.0,
+0105_lablup_backend.ai-kernels,0105_lablup_backend.ai-kernels_6e55207a03ee,6e55207a03ee,2021-12-28T23:00:27+09:00,2021-09-29T15:36:23+09:00,2021-12-28T23:00:27+09:00,115.0,6907.0,960.0,
+0106_lablup_backend.ai-kernels,0106_lablup_backend.ai-kernels_8c860e1f956c,8c860e1f956c,2024-10-15T21:54:35+09:00,2024-07-30T14:24:51+09:00,2024-10-15T21:54:35+09:00,4.0,922.0,0.0,
+0107_lablup_backend.ai-kernels,0107_lablup_backend.ai-kernels_f8de34bac4ce,f8de34bac4ce,2026-03-30T06:05:22+00:00,2026-01-11T00:03:01+09:00,2026-03-30T06:05:22+00:00,11.0,1661.0,196.0,
+0108_doccano_doccano,0108_doccano_doccano_0cf4e3191d21,0cf4e3191d21,2021-12-09T14:51:23+09:00,2021-09-15T09:35:22+08:00,2021-12-09T14:51:23+09:00,160.0,20420.0,17742.0,
+0109_doccano_doccano,0109_doccano_doccano_a485e3242338,a485e3242338,2024-08-27T14:45:53+09:00,2024-07-28T09:29:54+02:00,2024-08-27T14:45:53+09:00,11.0,6154.0,7947.0,
+0110_doccano_doccano,0110_doccano_doccano_ab6b765ea326,ab6b765ea326,2026-01-17T09:58:26+09:00,2026-01-11T09:59:03+09:00,2026-01-17T09:58:26+09:00,17.0,4669.0,3156.0,
+0111_StellarCN_py-stellar-base,0111_StellarCN_py-stellar-base_f5fa47f4d96f,f5fa47f4d96f,2021-12-02T20:51:23+08:00,2021-09-05T10:24:46+08:00,2021-12-02T20:51:23+08:00,116.0,27899.0,17428.0,
+0112_StellarCN_py-stellar-base,0112_StellarCN_py-stellar-base_c5d656f13e63,c5d656f13e63,2024-12-09T10:43:51+08:00,2024-09-09T11:20:40+08:00,2024-12-09T10:43:51+08:00,46.0,8891.0,2507.0,
+0113_StellarCN_py-stellar-base,0113_StellarCN_py-stellar-base_8180714e75a0,8180714e75a0,2026-05-06T02:19:26+00:00,2026-02-06T08:47:56+00:00,2026-05-06T02:19:26+00:00,57.0,41473.0,5351.0,
+0114_learningequality_ricecooker,0114_learningequality_ricecooker_1de27c9c01aa,1de27c9c01aa,,,,,,,Commit 1de27c9c01aa not found in repository.
+0115_learningequality_ricecooker,0115_learningequality_ricecooker_8ebf86351d00,8ebf86351d00,,,,,,,Commit 8ebf86351d00 not found in repository.
+0116_learningequality_ricecooker,0116_learningequality_ricecooker_a903c97f38c5,a903c97f38c5,,,,,,,Commit a903c97f38c5 not found in repository.
+0117_python-cmd2_cmd2,0117_python-cmd2_cmd2_c1f6114d5216,c1f6114d5216,2021-12-15T17:06:48-05:00,2021-09-24T14:51:23-04:00,2021-12-15T17:06:48-05:00,27.0,2757.0,1246.0,
+0118_python-cmd2_cmd2,0118_python-cmd2_cmd2_e4ab25f86341,e4ab25f86341,2024-12-29T12:56:42-05:00,2024-10-06T11:02:34-04:00,2024-12-29T12:56:42-05:00,62.0,6922.0,8661.0,
+0119_python-cmd2_cmd2,0119_python-cmd2_cmd2_eded33c0c0ac,eded33c0c0ac,2026-05-14T20:21:00-04:00,2026-02-18T00:30:50-05:00,2026-05-14T20:21:00-04:00,107.0,17269.0,16303.0,
+0120_bentoml_BentoML,0120_bentoml_BentoML_a585fc30b0da,a585fc30b0da,2021-12-29T19:52:14+08:00,2021-09-30T04:21:44+07:00,2021-12-29T19:52:14+08:00,242.0,87102.0,71461.0,
+0121_bentoml_BentoML,0121_bentoml_BentoML_749f49e71b90,749f49e71b90,2024-12-25T12:17:09+08:00,2024-09-25T20:23:59+08:00,2024-12-25T12:17:09+08:00,124.0,7673.0,7019.0,
+0122_bentoml_BentoML,0122_bentoml_BentoML_e570eb2b1dd5,e570eb2b1dd5,2026-05-07T18:06:14+08:00,2026-02-08T11:01:26+08:00,2026-05-07T18:06:14+08:00,33.0,2365.0,1190.0,
+0123_AtsushiSakai_PythonRobotics,0123_AtsushiSakai_PythonRobotics_4e1f644007b8,4e1f644007b8,2021-12-25T14:14:41+09:00,2021-10-03T16:40:44+09:00,2021-12-25T14:14:41+09:00,38.0,4753.0,8603.0,
+0124_AtsushiSakai_PythonRobotics,0124_AtsushiSakai_PythonRobotics_4ebe7543ffac,4ebe7543ffac,2024-12-10T13:17:18+09:00,2024-09-10T21:39:10+09:00,2024-12-10T13:17:18+09:00,22.0,119.0,21.0,
+0125_AtsushiSakai_PythonRobotics,0125_AtsushiSakai_PythonRobotics_5f35d9c7ac41,5f35d9c7ac41,2026-04-11T11:26:58-07:00,2026-01-17T09:20:55+09:00,2026-04-11T11:26:58-07:00,9.0,9.0,9.0,
+0126_openfisca_openfisca-tunisia,0126_openfisca_openfisca-tunisia_b0a39a75b290,b0a39a75b290,,,,,,,Commit b0a39a75b290 not found in repository.
+0127_openfisca_openfisca-tunisia,0127_openfisca_openfisca-tunisia_553c4b2779db,553c4b2779db,,,,,,,Commit 553c4b2779db not found in repository.
+0128_openfisca_openfisca-tunisia,0128_openfisca_openfisca-tunisia_2b5ee2cb0eea,2b5ee2cb0eea,,,,,,,Commit 2b5ee2cb0eea not found in repository.
+0129_psd-tools_psd-tools,0129_psd-tools_psd-tools_00241f3aed2c,00241f3aed2c,2021-08-20T23:20:31+09:00,2021-07-24T23:06:34+09:00,2021-08-20T23:20:31+09:00,18.0,560.0,557.0,
+0130_psd-tools_psd-tools,0130_psd-tools_psd-tools_970639b97c0e,970639b97c0e,2024-11-25T09:44:42+09:00,2024-08-25T10:19:04+02:00,2024-11-25T09:44:42+09:00,64.0,3677.0,3997.0,
+0131_psd-tools_psd-tools,0131_psd-tools_psd-tools_9b1ab9386105,9b1ab9386105,2026-05-07T17:41:15+09:00,2026-02-24T09:20:11+09:00,2026-05-07T17:41:15+09:00,220.0,12783.0,4191.0,
+0132_project-koku_koku,0132_project-koku_koku_3464046e13dd,3464046e13dd,,,,,,,Commit 3464046e13dd not found in repository.
+0133_project-koku_koku,0133_project-koku_koku_fe62be41554e,fe62be41554e,,,,,,,Commit fe62be41554e not found in repository.
+0134_project-koku_koku,0134_project-koku_koku_b800dfcfbe6e,b800dfcfbe6e,,,,,,,Commit b800dfcfbe6e not found in repository.
+0135_kivy_kivy,0135_kivy_kivy_b692b227637d,b692b227637d,2021-12-25T17:44:00+01:00,2021-09-28T22:00:36+02:00,2021-12-25T17:44:00+01:00,25.0,970.0,330.0,
+0136_kivy_kivy,0136_kivy_kivy_f60bba9dabc0,f60bba9dabc0,2024-12-12T22:33:40+01:00,2024-09-17T22:20:11+02:00,2024-12-12T22:33:40+01:00,18.0,118.0,99.0,
+0137_kivy_kivy,0137_kivy_kivy_d07e42c168fe,d07e42c168fe,2026-05-07T21:48:15+02:00,2026-02-10T10:33:25+13:00,2026-05-07T21:48:15+02:00,35.0,20042.0,1142.0,
+0138_haddocking_powerfit,0138_haddocking_powerfit_fe940e42ffb6,fe940e42ffb6,2018-10-29T20:35:08+01:00,2018-08-09T17:44:09-04:00,2018-10-29T20:35:08+01:00,3.0,56.0,19.0,
+0139_haddocking_powerfit,0139_haddocking_powerfit_e2c047603cba,e2c047603cba,2024-11-19T12:29:08+01:00,2024-11-19T12:29:08+01:00,2024-11-19T12:29:08+01:00,1.0,48.0,0.0,
+0140_haddocking_powerfit,0140_haddocking_powerfit_9a11eed9bb41,9a11eed9bb41,2026-05-12T12:01:46+02:00,2026-04-17T07:40:55+02:00,2026-05-12T12:01:46+02:00,4.0,5345.0,420.0,
+0141_cms-analysis_HiggsAnalysis-CombinedLimit,0141_cms-analysis_HiggsAnalysis-CombinedLimit_94a7b0974590,94a7b0974590,2019-01-31T15:37:19+00:00,2019-01-31T15:09:54+00:00,2019-01-31T15:37:19+00:00,6.0,18925.0,15339.0,
+0142_cms-analysis_HiggsAnalysis-CombinedLimit,0142_cms-analysis_HiggsAnalysis-CombinedLimit_865a330e892f,865a330e892f,2024-11-21T17:02:19+01:00,2024-08-23T13:57:48+01:00,2024-11-21T17:02:19+01:00,53.0,4526.0,1155.0,
+0143_cms-analysis_HiggsAnalysis-CombinedLimit,0143_cms-analysis_HiggsAnalysis-CombinedLimit_da0a2f49a8c4,da0a2f49a8c4,2026-04-30T13:31:21+01:00,2026-02-03T17:38:33+01:00,2026-04-30T13:31:21+01:00,55.0,2115.0,716.0,
+0144_voxel51_eta,0144_voxel51_eta_4abcd968823d,4abcd968823d,2017-10-05T12:20:44-05:00,2017-10-05T11:27:41-05:00,2017-10-05T12:20:44-05:00,3.0,3007.0,3.0,
+0145_voxel51_eta,0145_voxel51_eta_d44f054ce090,d44f054ce090,2024-09-16T11:26:09-04:00,2024-07-02T17:22:06-04:00,2024-09-16T11:26:09-04:00,13.0,395.0,251.0,
+0146_voxel51_eta,0146_voxel51_eta_4cee90c95737,4cee90c95737,2026-04-01T22:38:39-04:00,2026-01-05T10:37:02-05:00,2026-04-01T22:38:39-04:00,21.0,859.0,493.0,
+0147_Azure-Samples_modern-data-warehouse-dataops,0147_Azure-Samples_modern-data-warehouse-dataops_c2d86e5f4d44,c2d86e5f4d44,2021-12-10T11:56:00+05:30,2021-09-28T12:10:30+09:00,2021-12-10T11:56:00+05:30,27.0,151900.0,55510.0,
+0148_Azure-Samples_modern-data-warehouse-dataops,0148_Azure-Samples_modern-data-warehouse-dataops_4bf9af83336f,4bf9af83336f,2024-12-04T12:46:22+01:00,2024-10-07T22:15:57+11:00,2024-12-04T12:46:22+01:00,137.0,84710.0,11808.0,
+0149_Azure-Samples_modern-data-warehouse-dataops,0149_Azure-Samples_modern-data-warehouse-dataops_c6c097f74891,c6c097f74891,2026-02-25T17:17:03+10:00,2025-12-16T13:20:37-05:00,2026-02-25T17:17:03+10:00,4.0,37.0,16.0,

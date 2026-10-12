@@ -1,0 +1,43 @@
+Metric,Acronym,Usages
+Weighted Methods per Class,WMC,89
+Coupling Between Objects,CBO,89
+Lack of Cohesion in Methods,LCOM,86
+Depth of Inheritance Tree,DIT,81
+Lines of Code,LOC,79
+Number of Children,NOC,77
+Response for a Class,RFC,72
+Number of Methods,NOM,57
+Cyclomatic Complexity,V(G),55
+Number of Attributes,NOA,43
+Fan-out,FANOUT,27
+Fan-in,FANIN,22
+Number of Public Methods,NOPM,22
+Lines of Comments,LCOMM,21
+Afferent Couplings,Ca,20
+Efferent Couplings,Ce,20
+Lack of Cohesion in Methods 2,LCOM2,18
+Lines of Source Code,SLOC,17
+Lack of Cohesion in Methods 3,LCOM3,16
+Cohesion Among Methods,CAM,15
+Number of Classes,NCLASS,15
+Number of Parameters,NPAR,15
+Nesting Level,NEST,14
+Message Passage Coupling,MPC,14
+Number of Overridden Methods,NMO,13
+Number of Public Attributes,NOPA,13
+Lack of Cohesion in Methods 4,LCOM4,12
+Effort,E,11
+Instability,I,11
+Lack of Cohesion in Methods 5,LCOM5,11
+Tight Class Cohesion,TCC,11
+Abstractness,A,10
+Loose Class Cohesion,LCC,10
+Number of Statements,STAT,10
+Number of Methods Inherited,NMI,10
+Attribute Hiding Factor,AHF,10
+Class Cohesion,CC,10
+Data Abstraction Coupling,DAC,10
+Data Access Metric,DAM,10
+Method of Aggregation,MOA,10
+Method Hiding Factor,MHF,10
+Normalized Distance from Main Sequence,Dn,10
