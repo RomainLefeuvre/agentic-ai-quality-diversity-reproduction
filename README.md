@@ -13,8 +13,6 @@ Benoit Combemale ⋅ Houari Sahraoui
 ```
 
 
-This repository contains all the code related to the dataset extraction.
-
 ## Dataset extraction
 
 
